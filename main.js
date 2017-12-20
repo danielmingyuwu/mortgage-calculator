@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>Daniel's first JavaScript page</title>
+<title>Daniel first JavaScript page</title>
 </head>
 <body>
 <script type="text/javascript">
