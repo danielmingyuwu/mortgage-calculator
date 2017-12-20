@@ -1,10 +1,11 @@
 <!doctype html>
 <html>
 <head>
+<title>Daniel's first JavaScript page</title>
 </head>
 <body>
-<script language="javascript" type="text/javascript">
-document.write('Hello World!')
+<script type="text/javascript">
+alert('Hello World!')
 </script>
 </body>
 </html>
